@@ -11,7 +11,6 @@ application=Flask(__name__)
 
 app=application
 
-
 ## route for a home page
 
 @app.route('/')
